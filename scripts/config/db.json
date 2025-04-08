@@ -1,0 +1,11 @@
+{
+	"mysql": {
+	  "jdbc_url": "jdbc:mysql://localhost:3306/mydb",
+	  "user": "myuser",
+	  "password": "mypassword",
+	  "driver": "com.mysql.cj.jdbc.Driver",
+	  "query": "SELECT * FROM online_retail"
+	}
+
+}
+  

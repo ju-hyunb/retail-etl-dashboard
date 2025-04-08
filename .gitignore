@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+logs/
+output/
+
+
+# Django DB
+db.sqlite3
+
+etc

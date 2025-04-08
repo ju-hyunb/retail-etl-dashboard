@@ -1,0 +1,9 @@
+{
+	"spark.sql.shuffle.partitions": "50",
+	"spark.sql.execution.arrow.pyspark.enabled": "true",
+	"spark.sql.broadcastTimeout": "600",
+	"spark.sql.autoBroadcastJoinThreshold": "20971520",
+	"spark.sql.session.timeZone": "UTC"
+
+}
+  
